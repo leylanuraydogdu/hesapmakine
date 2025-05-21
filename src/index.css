@@ -1,6 +1,6 @@
 html {
   height: 100%;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 body .github-fork-ribbon:before {
-  background-color: gray;
+  background-color: pink;
 }
 
 @media screen and (max-width: 400px) {
